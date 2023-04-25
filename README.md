@@ -6,8 +6,8 @@
 - [x] Typescript
 - [x] Styled-Components
 - [x] Stripe
-- [] Radix UI
-- [] Fetch (Para requisição de API)
+- [ ] Radix UI
+- [ ] Fetch (Para requisição de API)
 
 ## Executando o projeto
 
