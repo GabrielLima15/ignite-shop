@@ -5,9 +5,10 @@
 - [x] ReactJS ( utilizando o Next.JS para criação do projeto )
 - [x] Typescript
 - [x] Styled-Components
+- [x] Stitches
 - [x] Stripe
-- [] Radix UI
-- [] Fetch (Para requisição de API)
+- [ ] Radix UI
+- [ ] Fetch (Para requisição de API)
 
 ## Executando o projeto
 
