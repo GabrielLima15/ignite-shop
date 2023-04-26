@@ -52,7 +52,7 @@ export const Product = styled('a', {
     span: {
       fontSize: '$xl',
       fontWeight: 'bold',
-      color: 'green300',
+      color: '#00875f',
     },
   },
 
