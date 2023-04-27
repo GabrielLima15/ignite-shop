@@ -7,8 +7,7 @@
 - [x] Styled-Components
 - [x] Stitches
 - [x] Stripe
-- [ ] Radix UI
-- [ ] Fetch (Para requisição de API)
+- [x] Fetch (Para requisição de API)
 
 ## Executando o projeto
 
