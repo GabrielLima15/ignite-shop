@@ -9,6 +9,9 @@
 - [x] Stripe
 - [x] Fetch (Para requisição de API)
 
+## Loja online
+[Acesse a loja online](https://gcldev-ignite-shop.netlify.app/)
+
 ## Executando o projeto
 
 Faça o clone deste projeto em seu computador e depois execute com npm:
@@ -19,6 +22,4 @@ Faça o clone deste projeto em seu computador e depois execute com npm:
  npm install
  npm run dev
 ```
-## Loja online
-[Acesse a loja online](https://gcldev-ignite-shop.netlify.app/)
 
