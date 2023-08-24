@@ -19,3 +19,6 @@ Faça o clone deste projeto em seu computador e depois execute com npm:
  npm install
  npm run dev
 ```
+
+link para página online:
+https://gcldev-ignite-shop.netlify.app/
