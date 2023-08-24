@@ -41,7 +41,7 @@ export default function Product({ product }: ProductProps) {
     } catch (err) {
       setIsCreatingCheckoutSession(false)
 
-      alert('Falha ao redurecuibar ai checkout')
+      console.log('Falha ao redirecionar ao checkout')
     }
   }
 
