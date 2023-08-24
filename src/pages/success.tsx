@@ -41,10 +41,7 @@ export default function Success({ product, customerName }: SuccessProps) {
   )
 }
 
-export const getServerSideProps: GetServerSideProps = async ({
-  query,
-  params,
-}) => {
+export const getServerSideProps: GetServerSideProps = async ({ query }) => {
   const sessionId = String(query.session_id)
 
   if (!query.session_id) {

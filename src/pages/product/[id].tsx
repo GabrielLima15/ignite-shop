@@ -63,7 +63,8 @@ export default function Product({ product }: ProductProps) {
 
           <button
             disabled={isCreatingCheckoutSession}
-            onClick={handleBuyProduct}>
+            onClick={handleBuyProduct}
+          >
             Comprar agora
           </button>
         </ProductDetails>
@@ -79,6 +80,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   }
 }
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export const getStaticProps: GetStaticProps<any, { id: string }> = async ({
   params,
 }) => {

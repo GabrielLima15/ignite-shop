@@ -3,7 +3,7 @@ import { stripe } from '@/lib/stripe'
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponse
+  res: NextApiResponse,
 ) {
   const { priceId } = req.body
 
